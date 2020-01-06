@@ -1,5 +1,6 @@
 # SkittlesEncoder
-Python message encoder and decoder
+Simple Python message encoder and decoder. Experimenting with encryption this uses variable encoding length and
+key timeouts of mod 3600s.
 
 ## Setup
 Install python virtual environment
@@ -24,5 +25,11 @@ deactivate
 ```
 
 ## Install requirements
+```
 pip3 install -r requirements.txt
+```
 
+## Run
+```
+python3 skittlesCode.py
+```
