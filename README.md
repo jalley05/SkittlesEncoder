@@ -34,5 +34,6 @@ pip3 install -r requirements.txt
 python3 skittlesCode.py
 ```
 
+## Screenshot
 
 <img width="369" alt="SkittlesEncoderScreen" src="https://user-images.githubusercontent.com/3308130/72454782-5fbb4b00-3776-11ea-9948-d37b17c53fb6.png">
